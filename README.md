@@ -7,7 +7,8 @@ This repository contains a Power Bi dashboard of an E-commerce store to answer q
 
 ## Screenshot
 
-![dashboard preview](https://github.com/avishek09/E-Commerce-Store-Analysis-/assets/75924699/5151c585-882b-4db4-b324-a8cc63256fb4)
+![image](https://github.com/user-attachments/assets/71f1f21d-aeb9-4ead-9923-370741ed6ac5)
+
 
 ## Installation
 
@@ -29,12 +30,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
-Throughout the development of this project, I have sought inspiration from a pivotal video source: https://youtu.be/6cV3OwFrOkk
-
-## Badges
-
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+Inspired and guided by a pivotal video source: https://youtu.be/6cV3OwFrOkk
 
 ## Project Learnings
 
